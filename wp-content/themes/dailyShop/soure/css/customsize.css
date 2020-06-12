@@ -1,0 +1,5 @@
+#aa-header::before, #aa-header::after {
+    content: '';
+    clear: both;
+    display: table;
+}

@@ -1,0 +1,27 @@
+a.added_to_cart.wc-forward {
+    display: none;
+}
+.woocomerce-detail {
+    position: relative;
+    padding: 100px 0;
+}
+.woocommerce div.product div.images.woocommerce-product-gallery .flex-viewport {
+    border: 1px solid;
+    margin-bottom: 15px;
+}
+.woocomerce-detail .quantity {
+    margin-top: 5px !important;
+}
+section.related.products {
+    display: none;
+}
+.woocommerce div.product form.cart .variations td.label label {
+    color: #000;
+    font-size: 17px;
+}
+.woocommerce div.product form.cart .variations td.label {
+	vertical-align: initial;
+}
+.woocommerce div.product form.cart .variations tr {
+	display: flex;
+}
