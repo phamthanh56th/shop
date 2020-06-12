@@ -32,3 +32,15 @@ Stack trace:
 #7 D:\xampp\htdocs\shop\wp-includes\class-wp-hook.php(287): WC_AJAX::do_wc_ajax('')
 #8 D:\xampp\htdocs\shop\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(false, Array in D:\xampp\htdocs\shop\wp-content\themes\dailyShop\functions.php on line 250
 
+2020-06-12T09:14:24+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\shop\wp-content\themes\storefront\functions.php on line 27
+
+2020-06-12T09:14:27+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\shop\wp-content\themes\storefront\functions.php on line 27
+
+2020-06-12T09:14:28+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\shop\wp-content\themes\storefront\functions.php on line 27
+
+2020-06-12T09:14:29+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\shop\wp-content\themes\storefront\functions.php on line 27
+
+2020-06-12T09:14:35+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\shop\wp-content\themes\storefront\functions.php on line 27
+
+2020-06-12T09:14:52+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\shop\wp-content\themes\storefront\functions.php on line 27
+
